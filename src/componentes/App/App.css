@@ -1,0 +1,12 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h2,
+p {
+  color: maroon;
+}
+
+ul {
+  list-style-type: none;
+}
